@@ -16,4 +16,4 @@ Links to previous work (all complted during the bootcamp)
 - Horiseon: Previous homework
 
 ### Contact me
-Cell phone (*generic*), Eeail, Github page and Codesignal profile to fill space
+Cell phone (*generic*), email, Github page and Codesignal profile to fill space
