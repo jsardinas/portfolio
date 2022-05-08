@@ -117,11 +117,10 @@ section .left-header h2{
 }
 
 .work-tile{
-    flex: 1 0 50%;
+    flex: 1 0 45%;
     margin: 10px 20px 10px 0px;
     opacity: 80%;  
     position: relative; 
-    flex-basis: 40%;
 }
 
 .work-tile:hover{
