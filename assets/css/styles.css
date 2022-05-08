@@ -113,13 +113,15 @@ section .left-header h2{
 .work-content{
     display: flex;
     flex-flow: row wrap;
+    justify-content: space-around;
 }
 
 .work-tile{
-    flex: 1 0 0;
+    flex: 1 0 50%;
     margin: 10px 20px 10px 0px;
     opacity: 80%;  
     position: relative; 
+    flex-basis: 40%;
 }
 
 .work-tile:hover{
@@ -175,7 +177,7 @@ span[data-descr]:hover::after {
     z-index: 1;
 }
 
-@media screen and (max-width: 860px) {
+@media screen and (max-width: 992px) {
     section{
         flex-direction: column;
         margin: 20px 0px;
